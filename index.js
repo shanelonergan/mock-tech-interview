@@ -1,9 +1,9 @@
+// create getElementsByClassName from scratch
 document.getElementsByClassName("hello");
 
+// given as help
 document.children; // Nodes 
 document.body.children // Nodes
-
-document.body.getElementsByClassName("Hello")
 
 getElementsByClassName(className){
   const elements = []
